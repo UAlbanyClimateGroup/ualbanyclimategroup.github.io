@@ -37,7 +37,7 @@ The most up-to-date version of the schedule can be found on the sign-up sheet.
 | 7 February |  |  |
 | 14 February |  |  |
 | 21 February |  |  |
-| 28 February |  | Prospective Student Visit (4 $\times$ 12-minute talks) |
+| 28 February | 1. <br>2. <br>3. <br>4. | Prospective Student Visit <br>(Four 12-minute talks) |
 | 7 March |  |  |
 | 14 March |  |  |
 | 21 March |  |  |
