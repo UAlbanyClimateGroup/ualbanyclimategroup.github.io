@@ -8,24 +8,24 @@ author_profile: true
 ## Academic year 2024-2025
 
 Climate Group will meet on Fridays from 11:30 am to 12:30 pm ET in the Map Room. 
-The most up-to-date version of the schedule can be found on the sign-up sheet.
+The most up-to-date version of the schedule can be found on the sign-up sheet (see the emails sent at the beginning of the semester).
 
 ### Fall 2024
 
 | Date | Name | Format | 
 | ------------- | ------------- | ------------ |
-| 30 August |  |  |
+| 30 August | Aiguo Dai | New research |
 | 6 September | Robert Ford | Prospectus |
 | 13 September |  |  |
 | 20 September |  |  |
-| 27 September |  |  |
+| 27 September | Aidan Alwang | Preliminary results |
 | 4 October |  |  |
 | 11 October |  |  |
-| 18 October |  |  |
-| 25 October |  |  |
-| 1 November |  |  |
-| 8 November |  |  |
-| 15 November |  |  |
+| 18 October | Paul Roundy | Research discussion |
+| 25 October | Matt Lynne | General discussion |
+| 1 November | Zheng Wu | Research discussion |
+| 8 November | Justin Minder | Literature review |
+| 15 November | Peter Ansah | Preliminary results |
 | 29 November |  |  |
 
 ### Spring 2025
