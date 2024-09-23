@@ -16,17 +16,18 @@ The most up-to-date version of the schedule can be found on the sign-up sheet (s
 | ------------- | ------------- | ------------ |
 | 30 August | Aiguo Dai | New research |
 | 6 September | Robert Ford | Prospectus |
-| 13 September |  |  |
-| 20 September |  |  |
+| 13 September | N/A | Canceled |
+| 20 September | N/A | Canceled |
 | 27 September | Aidan Alwang | Preliminary results |
-| 4 October |  |  |
-| 11 October |  |  |
+| 4 October | Dr. M. Gao (visitor from Hong Kong) | Seminar |
+| 11 October | Frederick Oppong | Preliminary results |
 | 18 October | Paul Roundy | Research discussion |
 | 25 October | Matt Lynne | General discussion |
 | 1 November | Zheng Wu | Research discussion |
 | 8 November | Justin Minder | Literature review |
 | 15 November | Peter Ansah | Preliminary results |
 | 29 November |  |  |
+| 6 December |  |  |
 
 ### Spring 2025
 
@@ -46,3 +47,4 @@ The most up-to-date version of the schedule can be found on the sign-up sheet (s
 | 11 April |  |  |
 | 18 April |  |  |
 | 25 April |  |  |
+| 2 May |  |  |
